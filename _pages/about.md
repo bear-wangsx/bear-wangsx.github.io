@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # Welcome to my personal website!
+请访问[中文网页](https://wangsx-cn.github.io/)。
 
 ## Employment
 * [Institute of Data Science](https://ids.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/)
