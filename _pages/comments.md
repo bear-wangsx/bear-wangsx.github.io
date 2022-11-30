@@ -45,5 +45,5 @@ I believe it is important to be:
     + On 19 Nov 2020 11:15AM
 * Dr. [Huangjie Zhao](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en) (My friend and coauthor)
   - "You are a really proactive person. I'm glad to be one of your friends. You are always the one who push me out of the comfort zone during my PhD life. I really appreciate your help. Thank you Shixiong!"
-    * On 28 Nov 2022 20:35
+    * On 28 Nov 2022 8:35PM
     * Shixiong Replied: Thanks!
