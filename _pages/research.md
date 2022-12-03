@@ -20,7 +20,7 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 </body></html>
 
 * Frequentist and Bayesian Statistics
-* General Optimization Theory
+* General Optimization Theory (Linear Program, Nonlinear Program, Convex Program, Semi-Definite Program, Heuristic Optimization, Surrogate Optimization, etc.)
 * Stachastic Programming
 * Distributionally Robust Optimization
 * State Estimation and Filtering Theory
