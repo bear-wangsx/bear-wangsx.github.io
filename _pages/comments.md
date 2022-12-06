@@ -19,7 +19,7 @@ I believe it is important to be:
   - If you asked me to do something and I agreed, then you can go back to bed and sleep because I am reliable. (But please allow me to refuse your request if it is _extremely_ inconvenient for me.)
   - I reply to every message (WeChat, Email, etc.) soon after I see it. I do everything as quickly as I can if I am supposed to be.
 * __Sincere__.
-  - I understand that it might be "clever" and "emotionally intelligent" to close mouth, to hedge, to wait and see, and/or to play tricks. But this is not my perference. I prefer to tell everyone what I am really thinking because this would be helpful for others to take their optimal actions. I seldom hedge; I would tell people what are my expectations and concerns, and why I can/cannot do a favor this time.
+  - I understand that it might be "clever" and "emotionally intelligent" to close mouth, to hedge, to wait and see, and/or to play tricks. But this is not my perference. I prefer to tell everyone what I am really thinking because this would be helpful for others to take their optimal actions. I seldom hedge; I would tell people what are my expectations and concerns, and why I can/cannot do something this time.
 * __Kind__.
   - As a human, I know that I should respect everyone no matter who he/she is. Humans are not machines: we have emotions. I respect every personal style and personal opinion as long as it is in the line of laws, rules, and policies. I never intentionally embarrass, trouble, and/or do harm to others. 
   - Please feel free to refuse me if you think what I am asking for is not convenient for you: I never mind this because everyone has his/her personal concerns.
