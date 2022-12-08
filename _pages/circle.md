@@ -12,10 +12,10 @@ If one of the following professors says that I am wrong (in any sense), then wit
 </p>
 </body></html>
 
-  * [Prof. Haobin Shi](https://teacher.nwpu.edu.cn/en/shihaobin.html)  (My undergraduate contest advisor)
-  * [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)  (My master's thesis advisor)
+  * [Prof. Haobin Shi](https://teacher.nwpu.edu.cn/en/shihaobin.html)   (My undergraduate contest advisor)
+  * [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)   (My master's thesis advisor)
   * [Prof. Vincent Tan](https://vyftan.github.io/) (My postdoctoral advisor)
-  * [Prof. Xiaobo Li](https://cde.nus.edu.sg/isem/staff/li-xiaobo/)   (My Ph.D. thesis advisory committee member)
+  * [Prof. Xiaobo Li](https://cde.nus.edu.sg/isem/staff/li-xiaobo/)     (My Ph.D. thesis advisory committee member)
 
 ## Trusted Collabarators
 + __I have publications with (Coauthors)__:
