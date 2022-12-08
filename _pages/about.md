@@ -25,7 +25,7 @@ redirect_from:
   - Thesis: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
     + [\[Slides\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[Codes\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[Formal Access\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
 * M.Eng. in Systems and Control Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
-  - Advisor: Prof. Jianhua He
+  - Advisor: [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)
   - Sep 2016 – Mar 2018
 * B.Eng. in Detection, Guidance, and Control Technology, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
   - Sep 2012 – Jun 2016
