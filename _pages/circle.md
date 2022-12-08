@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Trusted Panel
-+ __If one of the following professors says that I am wrong, then with high probability I am wrong, although sometimes I need to spend a lot of time in fully getting their points__:
+__If one of the following professors says that I am wrong, then with high probability I am wrong, although sometimes I need to spend a lot of time in fully getting their points__:
   * [Prof. Haobin Shi](https://teacher.nwpu.edu.cn/en/shihaobin.html) (My undergraduate contest advisor)
   * [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html) (My master's thesis advisor)
   * [Prof. Vincent Tan](https://vyftan.github.io/) (My postdoctoral advisor)
