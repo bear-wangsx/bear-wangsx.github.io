@@ -104,11 +104,15 @@ author_profile: true
             Distributional Robustness Bounds Generalization Errors
             <br>
             <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
+            <br>
+            Submitted
         </li> 
         <li>
             A New Learning Model Against Distributional Uncertainty
             <br>
             <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
+            <br>
+            Submitted
         </li> 
     </ol>
 </body>
