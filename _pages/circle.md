@@ -4,7 +4,7 @@ title: " "
 permalink: /circle/
 author_profile: true
 ---
-
+<!--
 ## Trusted Panel
 <html><body>
 <p align="justify">
@@ -20,7 +20,7 @@ If one of the following professors says that I am wrong (in any sense), then wit
     + Prof. He is also very nice and respectful. He cares about students to his best. He encouraged me to do a Ph.D.: Without his encouragement, I am certainly not a Ph.D. now.
   * [Prof. Haobin Shi](https://teacher.nwpu.edu.cn/en/shihaobin.html) (My undergraduate contest advisor)
     + Prof. Shi is also very nice and respectful. He also cares about students to his best. Under his advice, I participated in several robot contests during which my programming and mathematical skills have been deeply trained and substantially improved.
-
+-->
 ## Trusted Collabarators
 + __I have publications with (Coauthors)__:
   * [Prof. Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
@@ -37,8 +37,6 @@ If one of the following professors says that I am wrong (in any sense), then wit
 + __I have preprints with__:
   * [Prof. Yang Liu](https://www.nuslumos.org/)
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
-  * [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
-    - Machine Learning, Optimization
   * [Dr. Haowei Wang](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
     - Bayesian Optimization, Uncertainty Analysis
   * [Mr. Xinke Li](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
