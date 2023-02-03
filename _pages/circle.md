@@ -57,6 +57,8 @@ If one of the following professors says that I am wrong (in any sense), then wit
     - Logistics, Transportations, Operations Research, Supply Chain
   * [Dr. Kanxin Hu](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
     - Machine Scheduling, Combinatorial Optimization
+  * [Dr. Yichen Li](https://scholar.google.com/citations?user=GglmcQQAAAAJ&hl=en&oi=ao)
+    - Underwater Sensor Networks, Cooperative Localization, Target tracking, Signal Processing, Information Fusion
   * [Mr. Chen Wang](https://sites.google.com/view/chen-wang/home)
     - Machine Learning, Theoretical Computer Science, Learning Theory, Sublinear Algorithms, Biostatistics
   
