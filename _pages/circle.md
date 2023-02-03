@@ -51,6 +51,8 @@ If one of the following professors says that I am wrong (in any sense), then wit
     - Operations Management, Asymptotic Statistics, Optimization Algorithms
   * [Dr. Yuming Huang](https://scholar.google.com/citations?user=xv6lgqIAAAAJ&hl=en&oi=ao)
     - Blockchain, Cryptocurrency, Decentralized Systems
+  * [Dr. Qianhao Cong](https://scholar.google.com/citations?user=BoyWviYAAAAJ&hl=en)
+    - Blockchain, Graph Algorithms
   * [Dr. Binbin Pan](https://scholar.google.com/citations?user=fjOhMJoAAAAJ&hl=en)
     - Logistics, Transportations, Operations Research, Supply Chain
   * [Mr. Kanxin Hu](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
