@@ -13,9 +13,9 @@ redirect_from:
 
 ## Employment
 * [Institute of Data Science](https://ids.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/)
-  - [Research Fellow](https://ids.nus.edu.sg/people-researchers.html)
+  - [Postdoctoral Research Fellow](https://ids.nus.edu.sg/people-researchers.html)
   - Advisor: [Prof. Vincent Tan](https://vyftan.github.io/)
-  - Mar 2022 – Present
+  - Mar 2022 – Mar 2023
 
 ## Education
 * Ph.D. in [Industrial Systems Engineering and Management](https://cde.nus.edu.sg/isem/), [National University of Singapore](https://www.nus.edu.sg/)
