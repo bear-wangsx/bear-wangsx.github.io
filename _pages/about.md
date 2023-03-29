@@ -12,6 +12,11 @@ redirect_from:
 请访问[中文网页](https://wangsx-cn.github.io/)。
 
 ## Employment
+* [Intelligent Transmission and Processing Laboratory](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/), [Imperial College London](https://www.imperial.ac.uk/)
+  - Postdoctoral Researcher <!--(https://ids.nus.edu.sg/people-researchers.html)-->
+  - Advisor: [Prof. Wei Dai](https://www.imperial.ac.uk/people/wei.dai1) and [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li)
+  - April 2022 – 
+
 * [Institute of Data Science](https://ids.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/)
   - Postdoctoral Research Fellow <!--(https://ids.nus.edu.sg/people-researchers.html)-->
   - Advisor: [Prof. Vincent Tan](https://vyftan.github.io/)
