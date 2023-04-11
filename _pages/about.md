@@ -14,7 +14,7 @@ redirect_from:
 ## Employment
 * [Intelligent Transmission and Processing Laboratory](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/), [Imperial College London](https://www.imperial.ac.uk/)
   - Postdoctoral Researcher <!--(https://ids.nus.edu.sg/people-researchers.html)-->
-  - Advisor: [Prof. Wei Dai](https://www.imperial.ac.uk/people/wei.dai1) and [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li)
+  - Advisor: [Prof. Wei Dai](https://www.imperial.ac.uk/people/wei.dai1) and [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li) (IEEE Fellow)
   - April 2023 – 
 
 * [Institute of Data Science](https://ids.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/)
@@ -30,7 +30,7 @@ redirect_from:
   - Thesis: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
     + [\[Slides\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[Codes\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[Formal Access\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
 * M.Eng. in Systems and Control Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
-  - Advisor: Prof. Jianhua He<!--(https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)-->
+  - Advisor: [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)
   - Sep 2016 – Mar 2018
 * B.Eng. in Detection, Guidance, and Control Technology, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
   - Sep 2012 – Jun 2016
