@@ -33,8 +33,10 @@ redirect_from:
   - Advisor: [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html)
   - Sep 2016 – Mar 2018
   - Thesis: [Distributed Decision Making in Dynamic and Uncertain Environments](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkueNJRSNVX-zc5TVHKmDNkgGjUjUarklUUskOGx4rdd3BgrkBj0dQm4mYfJ8E3bnt&uniplatform=NZKPT)
+  - Distinguished Thesis Award
 * B.Eng. in Detection, Guidance, and Control Technology, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
   - Sep 2012 – Jun 2016
+  - Distinguished Thesis Award
 
 ## Contact
 * Email: s.wang@u.nus.edu
