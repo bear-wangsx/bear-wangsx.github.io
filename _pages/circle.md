@@ -41,6 +41,8 @@ If one of the following professors says that I am wrong (in any sense), then wit
     - Bayesian Optimization, Uncertainty Analysis
   * [Mr. Xinke Li](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
     - Deep Learning, 3D Vision, Geometry Learning
+  * [Mr. Zhirui Chen](https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en)
+    - Multi-armed Bandits, Machine Learning
 
 + __We have agreed on long-term collabaration__:
   * [Dr. Yue Zhao](https://scholar.google.com/citations?user=CGSAYhcAAAAJ&hl=en)
