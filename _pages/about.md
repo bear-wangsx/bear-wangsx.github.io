@@ -39,5 +39,7 @@ redirect_from:
   - Distinguished Thesis Award
 
 ## Contact
-* Email: s.wang@u.nus.edu
+* Email: shixiong.wang@imperial.ac.uk
+         s.wang@u.nus.edu
+         wsx.gugo@gmail.com
 
