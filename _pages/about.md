@@ -41,7 +41,3 @@ redirect_from:
 ## Contact
 * Email: shixiong.wang@imperial.ac.uk
 
-         s.wang@u.nus.edu
-         
-         wsx.gugo@gmail.com
-
