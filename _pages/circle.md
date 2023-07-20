@@ -8,7 +8,7 @@ author_profile: true
 ## Trusted Panel
 <html><body>
 <p align="justify">
-If one of the following professors says that I am wrong (in any sense), then with high probability I am wrong, although sometimes I cannot quickly fully get their points; However, I would seriously consider their comments and suggestions because their cares for me are unconditional and their comments on me are objective:
+The following professors' cares for me are unconditional and their comments on me are objective:
 </p>
 </body></html>
 
