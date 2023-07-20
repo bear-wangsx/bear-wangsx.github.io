@@ -21,7 +21,7 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 
 * Frequentist and Bayesian Statistics
 * General Optimization Theory (Linear Program, Nonlinear Program, Convex Program, Semi-Definite Program, Heuristic Optimization, Surrogate Optimization, etc.)
-* Stachastic Programming
+* Stochastic Programming
 * Distributionally Robust Optimization
 * State Estimation and Filtering Theory
 * Statistical Learning Theory
@@ -53,7 +53,7 @@ I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Tran
     - Neural Networks and Deep Learning
     - Deep Learning for Robotics
 + __Studied During Master__
-  * I got GPA of 90.44% (4.04 in 5, equivalently)
+  * I got GPA of 90.44%
   * Course List:
     - Applied Functional Analysis
     - Differential Equations in Mathematical Physics
@@ -64,6 +64,6 @@ I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Tran
     - Modern Digital Signal Processing
     - Digital Signal Processing Based on Matlab
 + __Studied During Bachelor__
-  * I got GPA of 92.19% (4.22 in 5, equivalently) in the third academic year and 90.13% (4.01 in 5, equivalently) in the first three academic years
+  * I got GPA of 92.19% in the third academic year and 90.13% in the first three academic years
 
 
