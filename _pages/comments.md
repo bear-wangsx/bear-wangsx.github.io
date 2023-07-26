@@ -35,6 +35,9 @@ I believe it is important to be:
 * Prof. [Andrew Lim](https://www.limandrew.org/) (My Ph.D. advisor)
   - "You are a very independent and productive student."
     + On WeChat Chatting
+* Prof. [Vincent Tan](https://vyftan.github.io/) (My PostDoc advisor)
+  - "You have an abundance of natural talent in research. Make good of it and be receptive to feedback from all."
+    + On the Christmas card that he gifted me on Dec 2022
 * Prof. [Tan Kok Choon](https://bizfaculty.nus.edu.sg/faculty-details/?profId=239) (The instructor of a [course](https://nusmods.com/modules/MTM5001/maritime-industry-fundamentals) that I served as a Teaching Assistant)
   - "You have been one of the best TA that I ever had in the past 12 years. Thanks very much for your teaching assistance."
     + On 28 Dec 2021 6:48PM
