@@ -83,7 +83,7 @@ author_profile: true
             <br>
             IEEE Internet of Things Journal, Vol. 8, pp. 572-584, Jun 2020
             <br>
-            <a href="./files/publications/2021/[Wang 2021 IOT] Accurate Tracking, Collision_Detection and Optimal_Scheduling.pdf">[Paper]</a>
+            <a href="../files/publications/2021/[Wang 2021 IOT] Accurate Tracking, Collision_Detection and Optimal_Scheduling.pdf">[Paper]</a>
             <a href="https://github.com/Spratm-Asleaf/GSE-Management">[Codes]</a>
         </li> 
     </ol>
