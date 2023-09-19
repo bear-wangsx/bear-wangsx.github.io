@@ -98,7 +98,7 @@ author_profile: true
             IEEE Transactions on Intelligent Transportation Systems, Vol. 23, pp. 6347-6356, Feb 2021
             <br>
             <a href="../files/publications/2021/[Wang 2021 TITS] ROPHS - Determine Real Time Status.pdf">[Paper]</a>
-            <a href="https://youtu.be/QXU66mHs35o">[Supplementary]</a>
+            <a href="https://youtu.be/QXU66mHs35o">[Video]</a>
             <a href="https://github.com/Spratm-Asleaf/GSE-Tracking">[Codes]</a>
         </li> 
         <li>
@@ -109,7 +109,7 @@ author_profile: true
             IEEE Internet of Things Journal, Vol. 8, pp. 572-584, Jun 2020
             <br>
             <a href="../files/publications/2021/[Wang 2021 IOT] Accurate Tracking, Collision_Detection and Optimal_Scheduling.pdf">[Paper]</a>
-            <a href="https://youtu.be/hp1GTwk6wCs">[Supplementary]</a>
+            <a href="https://youtu.be/hp1GTwk6wCs">[Video]</a>
             <a href="https://github.com/Spratm-Asleaf/GSE-Management">[Codes]</a>
         </li> 
     </ol>
