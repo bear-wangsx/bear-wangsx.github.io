@@ -30,7 +30,7 @@ The following professors' cares for me are unconditional and their comments on m
   * [Prof. Zhongming Wu](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
     - Mathematical Programming, Optimization, Operations Research
   * [Dr. Yuxin Che](https://scholar.google.com.sg/citations?user=Cj8PVYYAAAAJ&hl=en)
-    - Packing, Vehicel Routing, Scheduling
+    - Packing, Vehicle Routing, Scheduling
   * [Dr. Huangjie Zhao](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en)
     - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
 
@@ -39,12 +39,12 @@ The following professors' cares for me are unconditional and their comments on m
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
   * [Dr. Haowei Wang](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
     - Bayesian Optimization, Uncertainty Analysis
-  * [Mr. Xinke Li](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
+  * [Dr. Xinke Li](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
     - Deep Learning, 3D Vision, Geometry Learning
   * [Mr. Zhirui Chen](https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en)
     - Multi-armed Bandits, Machine Learning
 
-+ __We have agreed on long-term collabaration__:
++ __We have agreed on long-term collaboration__:
   * [Dr. Yue Zhao](https://scholar.google.com/citations?user=CGSAYhcAAAAJ&hl=en)
     - Robust Optimization, Adversarial Machine Learning
   * [Dr. Jingwen Li](https://scholar.google.com.sg/citations?user=2nbigR8AAAAJ&hl=en)
@@ -56,7 +56,7 @@ The following professors' cares for me are unconditional and their comments on m
   * [Dr. Qianhao Cong](https://scholar.google.com/citations?user=BoyWviYAAAAJ&hl=en)
     - Blockchain, Graph Algorithms
   * [Dr. Binbin Pan](https://scholar.google.com/citations?user=fjOhMJoAAAAJ&hl=en)
-    - Logistics, Transportations, Operations Research, Supply Chain
+    - Logistics, Transportation, Operations Research, Supply Chain
   * [Dr. Kanxin Hu](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
     - Machine Scheduling, Combinatorial Optimization
   * [Dr. Yichen Li](https://scholar.google.com/citations?user=GglmcQQAAAAJ&hl=en&oi=ao)
