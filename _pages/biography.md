@@ -32,7 +32,7 @@ table, th, td {
           <td><b>Remark</b></td>
         </tr>
         <tr>
-          <td>NUS Research Scholarship (Granted by Ministry of Education, Singapore)</td>
+          <td>NUS Research Scholarship</td>
           <td>2018</td>
           <td></td>
         </tr>
@@ -144,7 +144,7 @@ table, th, td {
             <td>2014, 2015</td>
         </tr>
         <tr>
-            <td>Second prize in Physics Contest for High School Student in Tianshui, China</td>
+            <td>Second prize in Physics Contest for High School Students in Tianshui, China</td>
             <td>2011</td>
         </tr>
     </table>
