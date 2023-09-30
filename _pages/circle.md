@@ -59,6 +59,8 @@ The following professors' cares for me are unconditional and their comments on m
     - Logistics, Transportation, Operations Research, Supply Chain
   * [Dr. Kanxin Hu](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
     - Machine Scheduling, Combinatorial Optimization
+  * [Dr. Jingyi Zhao](https://scholar.google.com/citations?user=YkPRtnoAAAAJ&hl=en)
+    - Vehicle Routing, Heuristic Algorithm
   * [Dr. Yichen Li](https://scholar.google.com/citations?user=GglmcQQAAAAJ&hl=en&oi=ao)
     - Underwater Sensor Networks, Cooperative Localization, Target Tracking, Signal Processing, Information Fusion
   * [Mr. Chen Wang](https://sites.google.com/view/chen-wang/home)
