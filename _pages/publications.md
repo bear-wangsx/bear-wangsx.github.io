@@ -22,7 +22,7 @@ author_profile: true
                 <br>
                 <b>Shixiong Wang</b>
                 <br>
-                IEEE Transactions on Signal Processing, 2023
+                IEEE Transactions on Signal Processing, Vol. 71, Oct 2023
                 <br>
                 <a href="../files/publications/2023/[Wang 2023 TSP] Distributionally Robust State Estimation - Jump.pdf">[Paper]</a>
                 <a href="../files/publications/2023/[Wang 2023 TSP] [Suppl] Distributionally Robust State Estimation - Jump.pdf">[Supplementary]</a>
