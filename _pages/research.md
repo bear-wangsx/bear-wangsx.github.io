@@ -8,14 +8,14 @@ author_profile: true
 ## Publication Topics
 <html><body>
 <p align="justify">
-My up-to-now publication topics include statistical signal processing (e.g., optimal estimation theory, time series analysis, and target tracking), statistical machine learning (e.g., generalization error theory), and intelligent transportation.
+My up-to-now publication topics include statistical signal processing (e.g., optimal estimation theory, time series analysis, and target tracking), statistical machine learning (e.g., generalization error theory), wireless communication (e.g., integrated sensing and communication), and intelligent transportation.
 </p>
 </body></html>
 
 ## Research Topics
 <html><body>
 <p align="justify">
-I am quite interested in probabilistic, statistical, and optimization theories. My research interests and theoretical backgrounds include statistics and optimization theories with applications in signal processing, machine learning, and control theory. Specifically, I am interested in and familiar with the following areas:
+I am quite interested in probabilistic, statistical, and optimization theories. My research interests and theoretical backgrounds include statistics and optimization theories with applications in signal processing, machine learning, control theory, and communication theory. Specifically, I am interested in and familiar with the following areas:
 </p>
 </body></html>
 
@@ -30,6 +30,7 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 * Control Theory and Application, Navigation and Guidance, and Reinforcement Learning
 * Target Positioning and Tracking
 * Instrumentation and Measurement Systems
+* Wireless Communication, Integrated Sensing and Communication
 
 ## Academic Activities
 <html><body>
