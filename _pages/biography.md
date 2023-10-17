@@ -52,7 +52,7 @@ table, th, td {
           <td>Only For Top-Three Undergraduate Students in NPU Each Year</td>
         </tr>
         <tr>
-          <td>Pacemaker to NPU Merit Students and Special-Class Scholarship</td>
+          <td>Pacesetter to NPU Merit Students and Special-Class Scholarship</td>
           <td>2015</td>
           <td>Only For Top-Ten Undergraduate Students in NPU Each Year</td>
         </tr>
