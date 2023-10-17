@@ -128,14 +128,6 @@ table, th, td {
             <td>2016</td>
         </tr>
         <tr>
-            <td>Third prize in The Electrician Mathematical Contest in Modeling (EMCM)</td>
-            <td>2013</td>
-        </tr>
-        <tr>
-            <td>Third prize in NPU Mathematical Contest in Modeling</td>
-            <td>2013</td>
-        </tr>
-        <tr>
             <td>Second prize in NPU ACM-ICPC</td>
             <td>2013</td>
         </tr>
