@@ -35,7 +35,7 @@ The following professors' cares for me are unconditional and their comments on m
     - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
 
 + __I have preprints with__:
-  * [Prof. Geoffrey Ye Li (IEEE Fellow)](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao)
+  * [Prof. Geoffrey Ye Li, IEEE Fellow](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao)
     - Signal Processing, Machine Learning, Wireless Communications
   * [Prof. Wei Dai](https://scholar.google.com/citations?user=k75IPyEAAAAJ&hl=en&oi=ao)
     - Signal Processing, Information Theory, Random Matrix Theory
