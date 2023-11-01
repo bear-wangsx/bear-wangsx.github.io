@@ -29,24 +29,24 @@ The following professors' cares for me are unconditional and their comments on m
     - Hierarchical Learning, Retail Forecasting, Point Cloud Analysis, Data Analytics
   * [Prof. Zhongming Wu](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
     - Mathematical Programming, Optimization, Operations Research
+  * [Prof. Yang Liu](https://www.nuslumos.org/)
+    - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
   * [Dr. Yuxin Che](https://scholar.google.com.sg/citations?user=Cj8PVYYAAAAJ&hl=en)
     - Packing, Vehicle Routing, Scheduling
   * [Dr. Huangjie Zhao](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en)
     - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
+  * [Dr. Xinke Li](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
+    - Deep Learning, 3D Vision, Geometry Learning
+  * [Mr. Zhirui Chen](https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en)
+    - Multi-armed Bandits, Machine Learning
 
 + __I have preprints with__:
   * [Prof. Geoffrey Ye Li, IEEE Fellow](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao)
     - Signal Processing, Machine Learning, Wireless Communications
   * [Prof. Wei Dai](https://scholar.google.com/citations?user=k75IPyEAAAAJ&hl=en&oi=ao)
     - Signal Processing, Information Theory, Random Matrix Theory
-  * [Prof. Yang Liu](https://www.nuslumos.org/)
-    - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
   * [Dr. Haowei Wang](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
     - Bayesian Optimization, Uncertainty Analysis
-  * [Dr. Xinke Li](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
-    - Deep Learning, 3D Vision, Geometry Learning
-  * [Mr. Zhirui Chen](https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en)
-    - Multi-armed Bandits, Machine Learning
 
 + __We have agreed on long-term collaboration__:
   * [Dr. Yue Zhao](https://scholar.google.com/citations?user=CGSAYhcAAAAJ&hl=en)
