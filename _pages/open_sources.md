@@ -11,7 +11,7 @@ author_profile: true
 I am an advocate of open source. All the source data and codes of my publications are available online at <a href="https://github.com/Spratm-Asleaf">GitHub</a>. If you cannot reproduce the claimed results in my publications, please feel free to let me know, and I would be very happy to help you fix your issues and/or update my codes.
 </p></body> </html> 
 
-## Latex Templates
+## Tailored Latex Templates
 
 If you find the following OverLeaf Latex templates useful, please feel free to reuse them.
 
