@@ -14,7 +14,7 @@ I am an advocate of open source. All the source data and codes of my publication
 
 ## Latex Templates
 
-If you find the following LaTex templates useful, please feel free to reuse them.
+If you find the following OverLeaf Latex templates useful, please feel free to reuse them.
 
-- [Journal Template](https://www.overleaf.com/read/pgyszvpppfzh#9be893)
+- [IEEE Journal Template](https://www.overleaf.com/read/pgyszvpppfzh#9be893)
 - [Author Response/Rebuttal Template](https://www.overleaf.com/read/ykqtyqkpnwyr#47dfb3)
