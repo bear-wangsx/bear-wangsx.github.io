@@ -142,7 +142,7 @@ author_profile: true
             <br>
             <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
             <br>
-            Submitted on 26 Jan 2023
+            Submitted on 26 Jan 202
         </li> 
         <li>
             <a href="https://arxiv.org/abs/2212.09962">Distributional Robustness Bounds Generalization Errors</a>
@@ -157,6 +157,13 @@ author_profile: true
             <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
             <br>
             Submitted on 31 Oct 2023
+        </li> 
+        <li>
+            <a href="https://arxiv.org/abs/2311.05532">Uncertainty-Aware Bayes' Rule and Its Applications</a>
+            <br>
+            <b>Shixiong Wang</b>
+            <br>
+            Submitted on 8 Nov 2023
         </li> 
     </ol>
 </body>
