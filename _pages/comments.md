@@ -32,7 +32,7 @@ I believe it is important to be:
     + Therefore, please explain your opinions and concerns to me before I get your points.
 
 ## How do other people think of me?
-* Prof. [Andrew Lim](https://www.limandrew.org/) (My Ph.D. advisor)
+* Prof. [Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en) (My Ph.D. advisor)
   - "You are a very independent and productive student."
     + On WeChat Chatting
 * Prof. [Vincent Tan](https://vyftan.github.io/) (My PostDoc advisor)
