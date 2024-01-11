@@ -24,7 +24,7 @@ redirect_from:
 
 ## Education
 * Ph.D. in [Industrial Systems Engineering and Management](https://cde.nus.edu.sg/isem/), [National University of Singapore](https://www.nus.edu.sg/)
-  - Advisor: [Prof. Andrew Lim](https://www.limandrew.org)
+  - Advisor: [Prof. Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
     + Prof. Andrew Lim left the National University of Singapore in April 2021 and since then [Prof. Zhisheng Ye](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/) hosted me until I submitted my thesis in Dec 2021.
   - Aug 2018 – July 2022 (Thesis submitted in Dec 2021; degree received in July 2022)
   - Thesis: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
