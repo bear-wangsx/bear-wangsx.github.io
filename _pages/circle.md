@@ -11,7 +11,8 @@ author_profile: true
 The following professors' cares for me are unconditional and their comments on me are objective:
 </p>
 </body></html>
-
+  * [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li) (IEEE Fellow, my postdoctoral advisor)
+    + This is a kind, responsible, considerate, flexible, helpful, respectful, and knowledgeable professor. I can find him whenever I want to have an academic discussion. He helped me a lot in developing my research career, including long-term research direction and meaningful research style.
   * [Prof. Vincent Tan](https://vyftan.github.io/) (My postdoctoral advisor)
     + This is a kind, responsible, passionate, considerate, flexible, helpful, respectful, and knowledgeable professor. I can find every virtue that a professor is supposed to have. It is my fortune to work with him. His cares for students and postdoctoral members are unconditional. He taught me how to write proper mathematics such as how to structure a paper, how to normalize the notation system, how to deliver a satisfactory presentation, and how to strictly follow academic ethics (e.g., when to or not to coauthor a paper).
   * [Prof. Xiaobo Li](https://cde.nus.edu.sg/isem/staff/li-xiaobo/) (My Ph.D. thesis advisory committee member)
