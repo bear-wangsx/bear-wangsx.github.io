@@ -32,6 +32,11 @@ table, th, td {
           <td><b>Remark</b></td>
         </tr>
         <tr>
+          <td>Outstanding Reviewer</td>
+          <td>2023</td>
+          <td>IEEE Trans. on Instrumentation and Measurement</td>
+        </tr>
+        <tr>
           <td>NUS Research Scholarship</td>
           <td>2018</td>
           <td></td>
