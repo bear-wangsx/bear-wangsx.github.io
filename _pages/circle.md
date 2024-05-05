@@ -19,8 +19,8 @@ The following professors' cares for me are unconditional and their comments on m
     + Xiaobo is also a kind, responsible, considerate, helpful, respectful, unselfish, and knowledgeable professor. He helped me a lot in structuring, formalizing, and clarifying my Ph.D. thesis; The presentation and scientific qualities of my thesis were improved a lot under his advice. I feel extremely warm and respected everytime when I talk with him: He is trying to encourage and bring hopes to me (and, I believe, all his students) in his every word.
   * [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html) (My master's thesis advisor)
     + Prof. He is also very nice and respectful. He cares about students to his best. He encouraged me to do a Ph.D.: Without his encouragement, I am certainly not a Ph.D. now.
-  * [Prof. Haobin Shi](https://teacher.nwpu.edu.cn/en/shihaobin.html) (My undergraduate contest advisor)
-    + Prof. Shi is also very nice and respectful. He also cares about students to his best. Under his advice, I participated in several robot contests during which my programming and mathematical skills have been deeply trained and substantially improved.
+  <!--* [Prof. Haobin Shi](https://teacher.nwpu.edu.cn/en/shihaobin.html) (My undergraduate contest advisor)-->
+  <!--  + Prof. Shi is also very nice and respectful. He also cares about students to his best. Under his advice, I participated in several robot contests during which my programming and mathematical skills have been deeply trained and substantially improved.-->
 
 ## Trusted Collabarators
 + __I have publications with (Coauthors)__:
@@ -54,8 +54,8 @@ The following professors' cares for me are unconditional and their comments on m
     - Robust Optimization, Adversarial Machine Learning
   * [Dr. Jingwen Li](https://scholar.google.com.sg/citations?user=2nbigR8AAAAJ&hl=en)
     - Deep Reinforcement Learning, Combinatorial Optimization
-  * [Dr. Xun Zhang](https://scholar.google.com/citations?user=hHphcVMAAAAJ&hl=en)
-    - Operations Management, Asymptotic Statistics, Optimization Algorithms
+  <!--* [Dr. Xun Zhang](https://scholar.google.com/citations?user=hHphcVMAAAAJ&hl=en)-->
+  <!--  - Operations Management, Asymptotic Statistics, Optimization Algorithms-->
   * [Dr. Yuming Huang](https://scholar.google.com/citations?user=xv6lgqIAAAAJ&hl=en&oi=ao)
     - Blockchain, Cryptocurrency, Decentralized Systems
   * [Dr. Qianhao Cong](https://scholar.google.com/citations?user=BoyWviYAAAAJ&hl=en)
@@ -68,6 +68,6 @@ The following professors' cares for me are unconditional and their comments on m
     - Vehicle Routing, Heuristic Algorithm
   * [Dr. Yichen Li](https://scholar.google.com/citations?user=GglmcQQAAAAJ&hl=en&oi=ao)
     - Underwater Sensor Networks, Cooperative Localization, Target Tracking, Signal Processing, Information Fusion
-  * [Mr. Chen Wang](https://sites.google.com/view/chen-wang/home)
+  * [Dr. Chen Wang](https://sites.google.com/view/chen-wang/home)
     - Machine Learning, Theoretical Computer Science, Learning Theory, Sublinear Algorithms, Biostatistics
   
