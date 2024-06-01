@@ -76,8 +76,7 @@ author_profile: true
     <h3 id="wc">&emsp;Wireless Communications</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <!-- <a href="https://arxiv.org/abs/2311.00071">Robust Waveform Design for Integrated Sensing and Communication</a>-> -->
-                Robust Waveform Design for Integrated Sensing and Communication
+                <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">Robust Waveform Design for Integrated Sensing and Communication</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
                 <br>
