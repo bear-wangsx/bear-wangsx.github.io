@@ -24,14 +24,20 @@ The following professors' cares for me are unconditional and their comments on m
 
 ## Trusted Collabarators
 + __I have publications with (Coauthors)__:
+  * [Prof. Geoffrey Ye Li, IEEE Fellow](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao)
+    - Signal Processing, Machine Learning, Wireless Communications
   * [Prof. Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
     - Transportation Research, Operations Research, Management Science, Analytics
+  * [Prof. Wei Dai](https://scholar.google.com/citations?user=k75IPyEAAAAJ&hl=en&oi=ao)
+    - Signal Processing, Information Theory, Random Matrix Theory
   * [Prof. Chongshou Li](https://scholar.google.com/citations?user=pQsr70EAAAAJ&hl=en)
     - Hierarchical Learning, Retail Forecasting, Point Cloud Analysis, Data Analytics
   * [Prof. Zhongming Wu](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
     - Mathematical Programming, Optimization, Operations Research
   * [Prof. Yang Liu](https://www.nuslumos.org/)
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
+  * [Dr. Haowei Wang](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
+    - Bayesian Optimization, Uncertainty Analysis
   * [Dr. Yuxin Che](https://scholar.google.com.sg/citations?user=Cj8PVYYAAAAJ&hl=en)
     - Packing, Vehicle Routing, Scheduling
   * [Dr. Huangjie Zhao](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en)
@@ -42,12 +48,7 @@ The following professors' cares for me are unconditional and their comments on m
     - Multi-armed Bandits, Machine Learning
 
 + __I have preprints with__:
-  * [Prof. Geoffrey Ye Li, IEEE Fellow](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao)
-    - Signal Processing, Machine Learning, Wireless Communications
-  * [Prof. Wei Dai](https://scholar.google.com/citations?user=k75IPyEAAAAJ&hl=en&oi=ao)
-    - Signal Processing, Information Theory, Random Matrix Theory
-  * [Dr. Haowei Wang](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
-    - Bayesian Optimization, Uncertainty Analysis
+
 
 + __We have agreed on long-term collaboration__:
   * [Dr. Yue Zhao](https://scholar.google.com/citations?user=CGSAYhcAAAAJ&hl=en)
