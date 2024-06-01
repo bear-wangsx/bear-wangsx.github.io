@@ -10,6 +10,7 @@ author_profile: true
 <h2>Navigation By Topic</h2>
     &emsp;&emsp;<a href="#ssp">Statistical Signal Processing</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#se">State Estimation</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#wc">Wireless Communications</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#ts">Time Series</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">Positioning and Tracking</a><br>
     &emsp;&emsp;<a href="#it">Intelligent Transportation</a><br>
@@ -70,6 +71,20 @@ author_profile: true
                 <br>
                 <a href="../files/publications/2019/[Wang 2019 SP] Joint Estimation and Identification.pdf">[Paper]</a>
                 <a href="https://github.com/Spratm-Asleaf/LJEI">[Codes]</a>
+            </li> 
+        </ol>
+    <h3 id="wc">&emsp;Wireless Communications</h3>
+        <ol reversed>		<!-- u: unordered, l: list-->
+            <li>
+                <!-- <a href="https://arxiv.org/abs/2311.00071">Robust Waveform Design for Integrated Sensing and Communication</a>-> -->
+                Robust Waveform Design for Integrated Sensing and Communication
+                <br>
+                <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
+                <br>
+                IEEE Transactions on Signal Processing, 2024
+                <br>
+                <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">[Paper]</a>
+                <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[Codes]</a>
             </li> 
         </ol>
     <h3 id="ts">&emsp;Time Series</h3>
@@ -163,14 +178,6 @@ author_profile: true
             <br>
             Under Submission
             <!--Submitted on 12 Jan 2023-->
-        </li> 
-        <li>
-            <a href="https://arxiv.org/abs/2311.00071">Robust Waveform Design for Integrated Sensing and Communication</a>
-            <br>
-            <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
-            <br>
-            Under Submission
-            <!--Submitted on 31 Oct 2023-->
         </li> 
         <li>
             <a href="https://arxiv.org/abs/2311.05532">Uncertainty-Aware Bayes' Rule and Its Applications</a>
