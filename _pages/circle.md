@@ -71,4 +71,5 @@ The following professors' cares for me are unconditional and their comments on m
     - Underwater Sensor Networks, Cooperative Localization, Target Tracking, Signal Processing, Information Fusion
   * [Dr. Chen Wang](https://sites.google.com/view/chen-wang/home)
     - Machine Learning, Theoretical Computer Science, Learning Theory, Sublinear Algorithms, Biostatistics
-  
+  * [Dr. Xi Yao](https://scholar.google.com/citations?hl=en&user=m5E-KEMAAAAJ)
+    - Optimization, Compressed Sensing
