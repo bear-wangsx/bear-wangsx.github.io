@@ -87,6 +87,29 @@ author_profile: true
                 <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[Codes]</a>
             </li> 
         </ol>
+        <ol reversed>		<!-- u: unordered, l: list-->
+            <li>
+                <a href="../files/publications/2024/[Wang 2024 MLSP] Distributionally Robust Outlier-Aware Receive Beamforming.pdf">Distributionally Robust Outlier-Aware Receive Beamforming</a>
+                <br>
+                <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
+                <br>
+                34th IEEE International Workshop on Machine Learning for Signal Processing (IEEE MLSP 2024), Sep 22-25 2024, London, UK
+                <br>
+                <a href="../files/publications/2024/[Wang 2024 MLSP] Distributionally Robust Outlier-Aware Receive Beamforming.pdf">[Paper]</a>
+                <a href="https://github.com/Spratm-Asleaf/Beamforming-Outlier">[Codes]</a>
+            </li> 
+        </ol>
+        <ol reversed>		<!-- u: unordered, l: list-->
+            <li>
+                <a href="https://arxiv.org/pdf/2407.11595">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
+                <br>
+                <b>Shixiong Wang</b> and Geoffrey Ye Li
+                <br>
+                Communications of Huawei Research, 2024 (to appear).
+                <br>
+                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Paper]</a>
+            </li> 
+        </ol>
     <h3 id="ts">&emsp;Time Series</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
