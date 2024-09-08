@@ -86,8 +86,6 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 TSP] [Suppl] Robust Waveform Design for ISAC.pdf">[Supplementary]</a>
                 <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[Codes]</a>
             </li> 
-        </ol>
-        <ol reversed>		<!-- u: unordered, l: list-->
             <li>
                 <a href="../files/publications/2024/[Wang 2024 MLSP] Distributionally Robust Outlier-Aware Receive Beamforming.pdf">Distributionally Robust Outlier-Aware Receive Beamforming</a>
                 <br>
@@ -98,8 +96,6 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 MLSP] Distributionally Robust Outlier-Aware Receive Beamforming.pdf">[Paper]</a>
                 <a href="https://github.com/Spratm-Asleaf/Beamforming-Outlier">[Codes]</a>
             </li> 
-        </ol>
-        <ol reversed>		<!-- u: unordered, l: list-->
             <li>
                 <a href="https://arxiv.org/pdf/2407.11595">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
                 <br>
