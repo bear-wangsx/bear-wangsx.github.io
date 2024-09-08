@@ -76,15 +76,13 @@ author_profile: true
     <h3 id="wc">&emsp;Wireless Communications</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://ieeexplore.ieee.org/document/10549948">Robust Waveform Design for Integrated Sensing and Communication</a>
+                <a href="https://arxiv.org/pdf/2407.11595">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
                 <br>
-                <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
+                <b>Shixiong Wang</b> and Geoffrey Ye Li
                 <br>
-                IEEE Transactions on Signal Processing, Vol. 72, pp. 3122-3138, Jun 2024
+                Communications of Huawei Research, 2024 (to appear).
                 <br>
-                <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">[Paper]</a>
-                <a href="../files/publications/2024/[Wang 2024 TSP] [Suppl] Robust Waveform Design for ISAC.pdf">[Supplementary]</a>
-                <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[Codes]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Paper]</a>
             </li> 
             <li>
                 <a href="../files/publications/2024/[Wang 2024 MLSP] Distributionally Robust Outlier-Aware Receive Beamforming.pdf">Distributionally Robust Outlier-Aware Receive Beamforming</a>
@@ -97,13 +95,15 @@ author_profile: true
                 <a href="https://github.com/Spratm-Asleaf/Beamforming-Outlier">[Codes]</a>
             </li> 
             <li>
-                <a href="https://arxiv.org/pdf/2407.11595">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
+                <a href="https://ieeexplore.ieee.org/document/10549948">Robust Waveform Design for Integrated Sensing and Communication</a>
                 <br>
-                <b>Shixiong Wang</b> and Geoffrey Ye Li
+                <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
                 <br>
-                Communications of Huawei Research, 2024 (to appear).
+                IEEE Transactions on Signal Processing, Vol. 72, pp. 3122-3138, Jun 2024
                 <br>
-                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Paper]</a>
+                <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">[Paper]</a>
+                <a href="../files/publications/2024/[Wang 2024 TSP] [Suppl] Robust Waveform Design for ISAC.pdf">[Supplementary]</a>
+                <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[Codes]</a>
             </li> 
         </ol>
     <h3 id="ts">&emsp;Time Series</h3>
