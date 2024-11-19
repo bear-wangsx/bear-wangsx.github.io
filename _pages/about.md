@@ -14,7 +14,7 @@ redirect_from:
 ## Employment
 * [Intelligent Transmission and Processing Laboratory](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/), [Imperial College London](https://www.imperial.ac.uk/)
   - Postdoctoral Researcher <!--(https://ids.nus.edu.sg/people-researchers.html)-->
-  - Advisor: [Prof. Wei Dai](https://www.imperial.ac.uk/people/wei.dai1) and [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li) (IEEE Fellow)
+  - Advisor: [Prof. Wei Dai](https://www.imperial.ac.uk/people/wei.dai1) and [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li) (IEEE Fellow, [RAEng Fellow](https://raeng.org.uk/about-us/fellowship/new-fellows-2024/professor-geoffrey-ye-li-freng))
   - May 2023 – 
 
 * [Institute of Data Science](https://ids.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/)
