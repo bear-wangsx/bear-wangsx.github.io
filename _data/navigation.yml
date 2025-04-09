@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Circle"
-    url: /circle/
+  #- title: "Circle"
+  #  url: /circle/
     
   - title: "Comments"
     url: /comments/
