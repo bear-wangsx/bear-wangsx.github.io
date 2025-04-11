@@ -5,7 +5,7 @@ permalink: /comments/
 author_profile: true
 ---
 
-## Acknowledgement
+## Acknowledgements
 <html><body>
 <p align="justify">
 The following professors' cares for me are unconditional and their comments on me are objective:
