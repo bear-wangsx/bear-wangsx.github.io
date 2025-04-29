@@ -13,6 +13,7 @@ author_profile: true
     &emsp;&emsp;&emsp;&emsp;<a href="#wc">Wireless Communications</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#ts">Time Series</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">Positioning and Tracking</a><br>
+    &emsp;&emsp;<a href="#sml">Statistical Machine Learning</a><br>
     &emsp;&emsp;<a href="#it">Intelligent Transportation</a><br>
     &emsp;&emsp;<a href="#pp">Preprints</a>
 <h2 id="ssp">Statistical Signal Processing</h2>
@@ -134,6 +135,20 @@ author_profile: true
                 <a href="https://github.com/Spratm-Asleaf/Range-Correction">[Codes]</a>
             </li> 
         </ol>
+<h2 id="sml">Statistical Machine Learning</h2>
+    <h3 id="se">&emsp;Generalization and Robustness</h3>
+        <ol reversed>		<!-- u: unordered, l: list-->
+            <li>
+                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty.pdf">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
+                <br>
+                <b>Shixiong Wang</b>, Haowei Wang, Xinke Li, and Jean Honorio
+                <br>
+                IEEE Journal of Selected Topics in Signal Processing, 2025
+                <br>
+                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty.pdf">[Paper]</a>
+                <a href="https://github.com/Spratm-Asleaf/Robustness-Specificity">[Codes]</a>
+            </li> 
+        </ol>
 <h2 id="it">Intelligent Transportation</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
         <li>
@@ -183,14 +198,6 @@ author_profile: true
     </ol>
 <h2 id="pp">Preprints</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
-        <li>
-            <a href="https://arxiv.org/abs/2301.13565">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
-            <br>
-            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
-            <br>
-            Under Submission
-            <!--Submitted on 26 Jan 2023-->
-        </li> 
         <li>
             <a href="https://arxiv.org/abs/2212.09962">Distributional Robustness Bounds Generalization Errors</a>
             <br>
