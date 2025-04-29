@@ -14,6 +14,7 @@ author_profile: true
     &emsp;&emsp;&emsp;&emsp;<a href="#ts">Time Series</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">Positioning and Tracking</a><br>
     &emsp;&emsp;<a href="#sml">Statistical Machine Learning</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#gr">Generalization and Robustness</a><br>
     &emsp;&emsp;<a href="#it">Intelligent Transportation</a><br>
     &emsp;&emsp;<a href="#pp">Preprints</a>
 <h2 id="ssp">Statistical Signal Processing</h2>
@@ -136,7 +137,7 @@ author_profile: true
             </li> 
         </ol>
 <h2 id="sml">Statistical Machine Learning</h2>
-    <h3 id="se">&emsp;Generalization and Robustness</h3>
+    <h3 id="gr">&emsp;Generalization and Robustness</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
                 <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty.pdf">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
