@@ -101,7 +101,7 @@ author_profile: true
                 <br>
                 IEEE Transactions on Signal Processing, Jun 2025
                 <br>
-                <a href="../files/publications/2025/[Wang 2025 TSP] Distributionally Robust Receive Combining">[Paper]</a>
+                <a href="../files/publications/2025/[Wang 2025 TSP] Distributionally Robust Receive Combining.pdf">[Paper]</a>
                 <a href="https://github.com/Spratm-Asleaf/DRRC">[Codes]</a>
             </li> 
             <li>
