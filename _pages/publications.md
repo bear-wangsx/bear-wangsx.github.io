@@ -78,25 +78,6 @@ author_profile: true
     <h3 id="wc">&emsp;Wireless Communications</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://arxiv.org/abs/2412.14369">Uncertainty Awareness in Wireless Communications and Sensing</a>
-                <br>
-                <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
-                <br>
-                IEEE Communications Magazine, May 2025
-                <br>
-                <a href="../files/publications/2025/[Wang 2025 ComMag] Uncertainty Awareness in Wireless Communications and Sensing.pdf">[Paper]</a>
-            </li> 
-            <li>
-                <a href="https://www-file.huawei.com/-/media/corp2020/pdf/publications/huawei-research/2024/huawei-research-issue7-en.pdf">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
-                <br>
-                <b>Shixiong Wang</b> and Geoffrey Ye Li
-                <br>
-                Communications of Huawei Research, Issue 7, pp. 2-20, Nov 2024. (Invited Article.)
-                <br>
-                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Paper]</a>
-                <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Full Issue Access]</a>
-            </li> 
-            <li>
                 <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Receive Combining</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
@@ -116,6 +97,25 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">[Paper]</a>
                 <a href="../files/publications/2024/[Wang 2024 TSP] [Suppl] Robust Waveform Design for ISAC.pdf">[Supplementary]</a>
                 <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[Codes]</a>
+            </li> 
+            <li>
+                <a href="https://arxiv.org/abs/2412.14369">Uncertainty Awareness in Wireless Communications and Sensing</a>
+                <br>
+                <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
+                <br>
+                IEEE Communications Magazine, May 2025
+                <br>
+                <a href="../files/publications/2025/[Wang 2025 ComMag] Uncertainty Awareness in Wireless Communications and Sensing.pdf">[Paper]</a>
+            </li> 
+            <li>
+                <a href="https://www-file.huawei.com/-/media/corp2020/pdf/publications/huawei-research/2024/huawei-research-issue7-en.pdf">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
+                <br>
+                <b>Shixiong Wang</b> and Geoffrey Ye Li
+                <br>
+                Communications of Huawei Research, Issue 7, pp. 2-20, Nov 2024. (Invited Article.)
+                <br>
+                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Paper]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Full Issue Access]</a>
             </li> 
         </ol>
     <h3 id="ts">&emsp;Time Series</h3>
