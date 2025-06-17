@@ -94,18 +94,16 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Paper]</a>
                 <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[Full Issue Access]</a>
             </li> 
-            <!--
             <li>
-                <a href="https://ieeexplore.ieee.org/abstract/document/10734797">Distributionally Robust Outlier-Aware Receive Beamforming</a>
+                <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Receive Combining</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
                 <br>
-                34th IEEE International Workshop on Machine Learning for Signal Processing (IEEE MLSP 2024), Sep 22-25 2024, London, UK
+                IEEE Transactions on Signal Processing, Jun 2025
                 <br>
-                <a href="../files/publications/2024/[Wang 2024 MLSP] Distributionally Robust Outlier-Aware Receive Beamforming.pdf">[Paper]</a>
-                <a href="https://github.com/Spratm-Asleaf/Beamforming-Outlier">[Codes]</a>
+                <a href="../files/publications/2025/[Wang 2025 TSP] Distributionally Robust Receive Combining">[Paper]</a>
+                <a href="https://github.com/Spratm-Asleaf/DRRC">[Codes]</a>
             </li> 
-            -->
             <li>
                 <a href="https://ieeexplore.ieee.org/document/10549948">Robust Waveform Design for Integrated Sensing and Communication</a>
                 <br>
@@ -225,15 +223,7 @@ author_profile: true
             <!--Submitted on 8 Nov 2023-->
         </li> 
         <li>
-            <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Receive Beamforming</a>
-            <br>
-            <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
-            <br>
-            Under Submission
-            <!--Submitted on 8 Nov 2023-->
-        </li> 
-        <li>
-            <a href="https://arxiv.org/abs/2411.06564">Robust Beamforming with Application in High-Resolution Sensing</a>
+            <a href="https://arxiv.org/abs/2411.06564">Distributionally Robust Adaptive Beamforming</a>
             <br>
             <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
             <br>
