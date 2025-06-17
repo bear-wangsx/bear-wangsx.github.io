@@ -83,6 +83,8 @@ author_profile: true
                 <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
                 <br>
                 IEEE Communications Magazine, May 2025
+                <br>
+                <a href="../files/publications/2025/[Wang 2025 ComMag] Uncertainty Awareness in Wireless Communications and Sensing.pdf">[Paper]</a>
             </li> 
             <li>
                 <a href="https://www-file.huawei.com/-/media/corp2020/pdf/publications/huawei-research/2024/huawei-research-issue7-en.pdf">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
