@@ -10,7 +10,7 @@ author_profile: true
 <h2>Navigation By Topic</h2>
     &emsp;&emsp;<a href="#ssp">Statistical Signal Processing</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#se">State Estimation</a><br>
-    &emsp;&emsp;&emsp;&emsp;<a href="#wc">Wireless Communications</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#wcs">Wireless Communications and Sensing</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#ts">Time Series</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">Positioning and Tracking</a><br>
     &emsp;&emsp;<a href="#sml">Statistical Machine Learning</a><br>
@@ -75,7 +75,7 @@ author_profile: true
                 <a href="https://github.com/Spratm-Asleaf/LJEI">[Codes]</a>
             </li> 
         </ol>
-    <h3 id="wc">&emsp;Wireless Communications</h3>
+    <h3 id="wcs">&emsp;Wireless Communications and Sensing</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
                 <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Receive Combining</a>
