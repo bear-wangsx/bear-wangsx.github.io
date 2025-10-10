@@ -19,7 +19,7 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 </p>
 </body></html>
 
-* Frequentist and Bayesian Statistics
+* Frequentist and Bayesian Statistics, Robust Statistics
 * General Optimization Theory (Linear Program, Nonlinear Program, Convex Program, Semi-Definite Program, Heuristic Optimization, Surrogate Optimization, etc.)
 * Stochastic Programming
 * Distributionally Robust Optimization
@@ -35,7 +35,7 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 ## Academic Activities
 <html><body>
 <p align="justify">
-I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Transactions on Instrumentation and Measurement. I also occasionally reviewed papers for IEEE Signal Processing Letters. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well-justified.
+I am an active reviewer for IEEE Transactions on Signal Processing. I also occasionally reviewed papers for other reputed journals, such as IEEE Signal Processing Letters. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well-justified.
 </p>
 </body></html>
 
