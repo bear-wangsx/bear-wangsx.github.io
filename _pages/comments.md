@@ -5,30 +5,6 @@ permalink: /comments/
 author_profile: true
 ---
 
-## Acknowledgements
-<html><body>
-<p align="justify">
-The following professors' cares for me are unconditional and their comments on me are objective:
-</p>
-</body></html>
-  * [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li) (Fellow of the Royal Academy of Engineering, IEEE Fellow, my postdoctoral advisor)
-    + This is a kind, responsible, considerate, flexible, helpful, respectful, and knowledgeable professor. I can find him whenever I want to have an academic discussion. He helped me a lot in developing my research career, including long-term research direction and meaningful research style.
-  * [Prof. Vincent Tan](https://vyftan.github.io/) (My postdoctoral advisor)
-    + This is a kind, responsible, passionate, considerate, flexible, helpful, respectful, and knowledgeable professor. I can find every virtue that a professor is supposed to have. It is my fortune to work with him. His cares for students and postdoctoral members are unconditional. He taught me how to write proper mathematics such as how to structure a paper, how to normalize the notation system, how to deliver a satisfactory presentation, and how to strictly follow academic ethics (e.g., when to or not to coauthor a paper).
-  * [Prof. Xiaobo Li](https://cde.nus.edu.sg/isem/staff/li-xiaobo/) (My Ph.D. thesis advisory committee member)
-    + Xiaobo is also a kind, responsible, considerate, helpful, respectful, unselfish, and knowledgeable professor. He helped me a lot in structuring, formalizing, and clarifying my Ph.D. thesis; The presentation and scientific qualities of my thesis were improved a lot under his advice. I feel extremely warm and respected everytime when I talk with him: He is trying to encourage and bring hopes to me (and, I believe, all his students) in his every word.
-  * [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html) (My master's thesis advisor)
-    + Prof. He is also very nice and respectful. He cares about students to his best. He encouraged me to do a Ph.D.: Without his encouragement, I am certainly not a Ph.D. now.
-  <!--* [Prof. Haobin Shi](https://teacher.nwpu.edu.cn/en/shihaobin.html) (My undergraduate contest advisor)-->
-  <!--  + Prof. Shi is also very nice and respectful. He also cares about students to his best. Under his advice, I participated in several robot contests during which my programming and mathematical skills have been deeply trained and substantially improved.-->
-
-<!--## <span style="color: red">Invitation</span>
-<html><body>
-<p align="justify">
-If you want other people quickly know what kind of person I am or if you want me to improve myself everyday, please feel free to email me (s.wang@u.nus.edu) about your critiques, suggestions, and comments on me. They will be shown below without any changes! You can also send me an <a href="https://anonymousemail.me/">anonymous email</a> to offer your critiques, suggestions, and/or comments without disclosing your identity.
-</p>
-</body></html>-->
-
 ## What kind of people I am trying to be?
 I believe it is important to be:
 * __Responsible__.
@@ -48,22 +24,19 @@ I believe it is important to be:
   - I am not an opinionated and stubborn person and I am open to hear critiques, comments, and suggestions. I am happy to change myself everyday. But I change myself only when I can realize that I am wrong: I do not directly follow other people's instructions even though he/she is a renowned person. In my understanding, "you are right and I have a different opinion from you" does not necessarily imply that "I am wrong".
     + Therefore, please explain your opinions and concerns to me before I get your points.
 
-## How do other people think of me?
-* Prof. [Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en) (My Ph.D. advisor)
-  - "You are a very independent and productive student."
-    + On WeChat Chatting
-* Prof. [Vincent Tan](https://vyftan.github.io/) (My PostDoc advisor)
-  - "You have an abundance of natural talent in research. Make good of it and be receptive to feedback from all."
-    + On the Christmas card that he gifted me on Dec 2022
-* Prof. [Tan Kok Choon](https://bizfaculty.nus.edu.sg/faculty-details/?profId=239) (The instructor of a [course](https://nusmods.com/modules/MTM5001/maritime-industry-fundamentals) that I served as a Teaching Assistant)
-  - "You have been one of the best TA that I ever had in the past 12 years. Thanks very much for your teaching assistance."
-    + On 28 Dec 2021 6:48PM
-* Prof. [Tang Loon Ching](https://cde.nus.edu.sg/isem/staff/tang-loon-ching/) (The instructor of a [course](https://nusmods.com/modules/IE4243/decision-modeling-risk-analysis) that I served as a Teaching Assistant)
-  - "Very good! You are the best TA so far." 
-    + On 11 Sep 2020 11:26AM
-  - "you are an excellent TA; among the best I ever had so far." 
-    + On 19 Nov 2020 11:15AM
-* Dr. [Huangjie Zhao](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en) (My friend and coauthor)
-  - "You are a really proactive person. I'm glad to be one of your friends. You are always the one who push me out of the comfort zone during my PhD life. I really appreciate your help. Thank you Shixiong!"
-    * On 28 Nov 2022 8:35PM
-    * Shixiong Replied: Thanks!
+## Acknowledgements
+<html><body>
+<p align="justify">
+I was fortunate to be advised by the following professors:
+</p>
+</body></html>
+  * [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li) (Fellow of the Royal Academy of Engineering, IEEE Fellow, my postdoctoral advisor)
+    + This is a kind, responsible, considerate, flexible, helpful, respectful, and knowledgeable professor. I can find him whenever I want to have an academic discussion. He helped me a lot in developing my research career, including long-term research direction and meaningful research style.
+  * [Prof. Vincent Tan](https://vyftan.github.io/) (My postdoctoral advisor)
+    + This is a kind, responsible, passionate, considerate, flexible, helpful, respectful, and knowledgeable professor. I can find every virtue that a professor is supposed to have. It is my fortune to work with him. His cares for students and postdoctoral members are unconditional. He taught me how to write proper mathematics such as how to structure a paper, how to normalize the notation system, how to deliver a satisfactory presentation, and how to strictly follow academic ethics (e.g., when to or not to coauthor a paper).
+  * [Prof. Xiaobo Li](https://cde.nus.edu.sg/isem/staff/li-xiaobo/) (My Ph.D. thesis advisory committee member)
+    + Xiaobo is also a kind, responsible, considerate, helpful, respectful, unselfish, and knowledgeable professor. He helped me a lot in structuring, formalizing, and clarifying my Ph.D. thesis; The presentation and scientific qualities of my thesis were improved a lot under his advice. I feel extremely warm and respected everytime when I talk with him: He is trying to encourage and bring hopes to me (and, I believe, all his students) in his every word.
+  * [Prof. Jianhua He](https://teacher.nwpu.edu.cn/en/j82zf0vfmf50835d3461429868736702.html) (My master's thesis advisor)
+    + Prof. He is also very nice and respectful. He cares about students to his best. He encouraged me to do a Ph.D.: Without his encouragement, I am certainly not a Ph.D. now.
+  <!--* [Prof. Haobin Shi](https://teacher.nwpu.edu.cn/en/shihaobin.html) (My undergraduate contest advisor)-->
+  <!--  + Prof. Shi is also very nice and respectful. He also cares about students to his best. Under his advice, I participated in several robot contests during which my programming and mathematical skills have been deeply trained and substantially improved.-->
