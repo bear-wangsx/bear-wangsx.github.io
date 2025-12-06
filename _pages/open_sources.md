@@ -17,8 +17,3 @@ If you find the following OverLeaf Latex templates useful, please feel free to r
 
 - [Journal Template](https://www.overleaf.com/read/pgyszvpppfzh#9be893)
 - [Author Response/Rebuttal Template](https://www.overleaf.com/read/ykqtyqkpnwyr#47dfb3)
-
-## Visitors
-<html><body>
-<a href="https://mapmyvisitors.com/web/1c13o"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=-zUBEhfgPiHlV-poOf-lZQ74CbZlw4URqdGhQN-Tlqs&cl=ffffff" /></a>
-</body></html>
