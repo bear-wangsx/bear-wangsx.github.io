@@ -20,5 +20,5 @@ If you find the following OverLeaf Latex templates useful, please feel free to r
 
 ## Visitors
 <html><body>
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7aQdctFtuiKwyz4vz_fcSeOb157pGHbfCQnRcCY9KrA"></script>
+<a href="https://mapmyvisitors.com/web/1c13o"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=-zUBEhfgPiHlV-poOf-lZQ74CbZlw4URqdGhQN-Tlqs&cl=ffffff" /></a>
 </body></html>
