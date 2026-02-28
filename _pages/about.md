@@ -12,8 +12,9 @@ redirect_from:
 请访问[中文网页](https://wangsx-cn.github.io/)。
 
 ## Employment
-* Department of Information Sciences, [School of Mathematics and Statistics](https://math.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/)
+* [School of Mathematics and Statistics](https://math.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/)
   - Professor <!--(https://ids.nus.edu.sg/people-researchers.html)-->
+  - Department of Information Sciences
   - Scheme: China Excellent Young Scientists Fund (Overseas)
   - Mar 2026 - 
 
