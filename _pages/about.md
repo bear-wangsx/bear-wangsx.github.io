@@ -16,7 +16,7 @@ redirect_from:
   - Professor <!--(https://ids.nus.edu.sg/people-researchers.html)-->
   - Department of Information Sciences
   - Scheme: China Excellent Young Scientists Fund (Overseas)
-  - Mar 2026 - 
+  - Mar 2026 – 
 
 * [Intelligent Transmission and Processing Laboratory](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/), [Imperial College London](https://www.imperial.ac.uk/)
   - Postdoctoral Researcher <!--(https://ids.nus.edu.sg/people-researchers.html)-->
