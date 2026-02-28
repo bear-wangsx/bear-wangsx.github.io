@@ -12,10 +12,15 @@ redirect_from:
 请访问[中文网页](https://wangsx-cn.github.io/)。
 
 ## Employment
+* Department of Information Sciences, [School of Mathematics and Statistics](https://math.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/)
+  - Professor <!--(https://ids.nus.edu.sg/people-researchers.html)-->
+  - Scheme: China Excellent Young Scientists Fund (Overseas)
+  - Mar 2026 - 
+
 * [Intelligent Transmission and Processing Laboratory](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/), [Imperial College London](https://www.imperial.ac.uk/)
   - Postdoctoral Researcher <!--(https://ids.nus.edu.sg/people-researchers.html)-->
   - Advisor: [Prof. Geoffrey Ye Li](https://www.imperial.ac.uk/people/geoffrey.li) (IEEE Fellow, [RAEng Fellow](https://raeng.org.uk/about-us/fellowship/new-fellows-2024/professor-geoffrey-ye-li-freng)) and [Prof. Wei Dai](https://www.imperial.ac.uk/people/wei.dai1)
-  - May 2023 – 
+  - May 2023 – Feb 2026
 
 * [Institute of Data Science](https://ids.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/)
   - Postdoctoral Research Fellow <!--(https://ids.nus.edu.sg/people-researchers.html)-->
