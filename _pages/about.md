@@ -45,5 +45,5 @@ redirect_from:
   - Distinguished Thesis Award
 
 ## Contact
-* Email: shixiong.wang@imperial.ac.uk
+* Email: s.wang@xjtu.edu.cn
 
