@@ -14,7 +14,7 @@ redirect_from:
 ## Employment
 * [School of Mathematics and Statistics](https://math.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/)
   - Professor <!--(https://ids.nus.edu.sg/people-researchers.html)-->
-  - Department of Information Sciences
+  - Department of Information Science
   - Scheme: China Excellent Young Scientists Fund (Overseas)
   - Mar 2026 – 
 
