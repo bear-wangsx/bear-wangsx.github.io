@@ -78,7 +78,25 @@ table, th, td {
           <td>Teaching Assistant</td>
           <td>Probability, Statistics, and Stochastic Processes (MATH295607@XJTU)</td>
           <td>2025-2026 Semester II</td>
-          <td></td>
+          <td>XJTU Undergraduate</td>
+        </tr>
+        <tr>
+          <td>Teaching Assistant</td>
+          <td>Cost Analysis & Engineering Economy (IE5003@NUS)</td>
+          <td>(I Forgot The Time Period)</td>
+          <td>NUS Master</td>
+        </tr>
+        <tr>
+          <td>Teaching Assistant</td>
+          <td>Decision Modeling & Risk Analysis (IE4243@NUS)</td>
+          <td>(I Forgot The Time Period)</td>
+          <td>NUS Undergraduate</td>
+        </tr>
+        <tr>
+          <td>Teaching Assistant</td>
+          <td>Industrial Systems Engineering Principles & Practice (IE1111R@NUS)</td>
+          <td>(I Forgot The Time Period)</td>
+          <td>NUS Undergraduate</td>
         </tr>
     </table>
 </body>
