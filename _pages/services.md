@@ -44,7 +44,7 @@ table, th, td {
           <td><a href="https://2025.ieeespawc.org/committee/">Public Relations Chair</a></td>
           <td>IEEE SPAWC 2025</td>
           <td>7-10 July 2025</td>
-          <td></td>
+          <td>Also, The Assistant to TPC Chairs</td>
         </tr>
         <tr>
           <td><a href="https://2024.ieeemlsp.org/355-2/">Publicity Chair</a></td>
