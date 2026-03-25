@@ -45,5 +45,5 @@ redirect_from:
   - Distinguished Thesis Award
 
 ## Contact
-* Email: s.wang@xjtu.edu.cn
+* Email: s.wang (_at_) xjtu.edu.cn
 
