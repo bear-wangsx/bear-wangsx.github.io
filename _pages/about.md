@@ -14,9 +14,9 @@ redirect_from:
 ## Employment
 * [School of Mathematics and Statistics](https://math.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/)
   - Professor  <!--(https://ids.nus.edu.sg/people-researchers.html)-->
-    + [\[Faculty Directory\]](https://math.xjtu.edu.cn/info/1370/14522.htm), [\[Faculty Profile\]](https://faculty.xjtu.edu.cn/wangsx/)
   - Department of Information Science
   - Scheme: China Excellent Young Scientists Fund (Overseas)
+  - [\[Faculty Profile\]](https://math.xjtu.edu.cn/info/1370/14522.htm)
   - Mar 2026 – 
 
 * [Intelligent Transmission and Processing Laboratory](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/), [Imperial College London](https://www.imperial.ac.uk/)
