@@ -16,7 +16,7 @@ redirect_from:
   - Professor  <!--(https://ids.nus.edu.sg/people-researchers.html)-->
   - Department of Information Science
   - Scheme: China Excellent Young Scientists Fund (Overseas)
-  - [\[Faculty Profile\]](https://math.xjtu.edu.cn/info/1370/14522.htm)
+  - [Faculty Profile](https://math.xjtu.edu.cn/info/1370/14522.htm)
   - Mar 2026 – 
 
 * [Intelligent Transmission and Processing Laboratory](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/), [Imperial College London](https://www.imperial.ac.uk/)
