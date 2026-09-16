@@ -64,6 +64,12 @@ table, th, td {
           <td><b>Remark</b></td>
         </tr>
         <tr>
+          <td>Lecturer</td>
+          <td>Probability and Statistics (MATH295507@XJTU)</td>
+          <td>2026-2027 Semester I</td>
+          <td>XJTU Undergraduate</td>
+        </tr>
+        <tr>
           <td>Trainee Lecturer</td>
           <td>Probability, Statistics, and Stochastic Processes (MATH295607@XJTU)</td>
           <td>2025-2026 Semester II</td>
